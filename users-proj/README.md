@@ -32,6 +32,11 @@ Inicia el servidor de desarrollo
 php artisan serve
 Ahora puedes acceder a tu aplicación Laravel en http://localhost:8000 en tu navegador web.
 
+Usuario generado de pruebas en los seeders:
+admin@example.com
+password
+El mismo ya posee rol administrador para poder generar, editar y eliminar usuarios
+
 Información adicional Migraciones y Seeders: Las migraciones te permiten definir la estructura de la base de datos de tu aplicación, mientras que los seeders te permiten poblar la base de datos con datos de prueba. Documentación de Laravel: Para obtener más información sobre cómo trabajar con Laravel, consulta la documentación oficial de Laravel. Soporte y contribución: Si encuentras algún problema o tienes sugerencias para mejorar este proyecto, no dudes en crear un issue o enviar una solicitud de extracción.
 
 Recuerda reemplazar <URL_del_repositorio>, nombre_de_tu_base_de_datos, usuario_de_tu_base_de_datos y contraseña_de_tu_base_de_datos con los valores correspondientes para tu proyecto. Además, asegúrate de proporcionar instrucciones adicionales específicas si tu proyecto tiene requisitos especiales.
