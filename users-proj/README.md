@@ -37,6 +37,8 @@ admin@example.com
 password
 El mismo ya posee rol administrador para poder generar, editar y eliminar usuarios
 
+Este proyecto en una primera iteracion contempla un CRUD de Usuarios con login y autenticacion, con Roles y permisos para cada uno de ellos. En una segunda iteracion se puede agregar un CRUD de permisos y roles, donde sea autogestionable la asignacion y el manejo de estas respecto a los usuarios. Actualmente la asignacion se hace al crear y editar los usuarios.
+
 Información adicional Migraciones y Seeders: Las migraciones te permiten definir la estructura de la base de datos de tu aplicación, mientras que los seeders te permiten poblar la base de datos con datos de prueba. Documentación de Laravel: Para obtener más información sobre cómo trabajar con Laravel, consulta la documentación oficial de Laravel. Soporte y contribución: Si encuentras algún problema o tienes sugerencias para mejorar este proyecto, no dudes en crear un issue o enviar una solicitud de extracción.
 
 Recuerda reemplazar <URL_del_repositorio>, nombre_de_tu_base_de_datos, usuario_de_tu_base_de_datos y contraseña_de_tu_base_de_datos con los valores correspondientes para tu proyecto. Además, asegúrate de proporcionar instrucciones adicionales específicas si tu proyecto tiene requisitos especiales.
